@@ -1,0 +1,13 @@
+
+main{
+  min-height: 100vh;
+}
+
+.rating span{
+  margin: 0.1rem;
+}
+
+h3{
+  padding: 0.1rem;
+  color: white;
+}
